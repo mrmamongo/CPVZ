@@ -1,6 +1,6 @@
 #include "module.h"
 
-#include <cpvz/logging/i_logger.h>
+#include <cpvz/logging/i_logger.hpp>
 
 namespace cpvz::utils {
 
