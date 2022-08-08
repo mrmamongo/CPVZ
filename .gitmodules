@@ -1,0 +1,9 @@
+[submodule "third-party/json"]
+	path = third-party/json
+	url = https://github.com/nlohmann/json
+[submodule "third-party/httplib"]
+	path = third-party/httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "third-party/easylogging"]
+	path = third-party/easylogging
+	url = https://github.com/amrayn/easyloggingpp
